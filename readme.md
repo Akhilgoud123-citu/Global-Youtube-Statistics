@@ -1,21 +1,21 @@
-Global You-tube Statistics
+# Global You-tube Statistics
 
-    Introduction :
+    # Introduction :
 
 The “Global YouTube Statistics” project is designed to analyze and visualize YouTube channel performance on a global scale using real-world data. YouTube has become one of the most influential digital platforms, with millions of creators producing content across different categories and countries. This project focuses on understanding how channels grow in terms of subscribers, generate video views, and earn revenue over time. By analyzing metrics such as total subscribers, total views, content categories, country-wise distribution, and earnings, the project provides a comprehensive overview of the YouTube ecosystem.
 The dataset is processed and analyzed using Tableau to create interactive dashboards that simplify complex data into meaningful insights. Key performance indicators (KPIs) such as total YouTube channels, total subscribers, total views, and average yearly earnings help summarize the overall platform performance. Visualizations like bar charts, treemaps, donut charts, scatter plots, and maps are used to compare top channels, identify popular content categories, and analyze regional trends.
 This project helps content creators understand which strategies lead to higher engagement and revenue, while businesses and marketers can identify high-performing categories and regions for collaboration. Overall, the Global YouTube Statistics dashboard serves as a powerful decision-support tool that enables data-driven insights into audience behavior, content performance, and monetization trends across the global YouTube platform.
-Scenario 1:  Content Creator Strategy Optimization
+# Scenario 1:  Content Creator Strategy Optimization
 
 Content creators can use the insights from the Global YouTube Statistics dashboard to understand which content categories attract the highest number of subscribers and views. By analyzing charts such as Subscribers by Content Category, Views vs Subscribers, and Top Channels by Subscribers, creators can identify successful content trends and benchmark their performance against top-performing channels. These insights help creators optimize their content strategy, improve audience engagement, and focus on producing videos that generate higher views and earnings.
 
-Scenario 2: Brand Marketing and Influencer Selection
+# Scenario 2: Brand Marketing and Influencer Selection
 
 Brands and digital marketing agencies can leverage this dashboard to identify influential YouTube channels and regions with high audience reach. Visualizations such as Country-wise Subscribers, Country-wise Earnings Distribution, and Top Channels by Subscribers help marketers select the right influencers for brand collaborations and advertising campaigns. By understanding regional popularity and monetization patterns, brands can make data-driven decisions to maximize marketing ROI and target the most impactful creators.
-Scenario 3: Platform Growth and Monetization Analysis
+# Scenario 3: Platform Growth and Monetization Analysis
 
 Business analysts and platform strategists can use the Global YouTube Statistics project to study global trends in YouTube growth and monetization. KPIs such as total subscribers, total views, and average yearly earnings provide a high-level overview of platform performance, while deeper analysis using scatter plots and category-wise earnings helps identify revenue-driving segments. These insights support strategic planning, market expansion analysis, and policy decisions to enhance creator monetization and platform sustainability.
-Technical Architecture:
+# Technical Architecture:
 
 
 
@@ -50,7 +50,7 @@ Project Demonstration & Documentation
 Record explanation Video for project end to end solution
 Project Documentation-Step by step project development procedure
 
-Milestone 1: Data Collection & Extraction from Database
+# Milestone 1: Data Collection & Extraction from Database
 
 Data collection is the process of gathering and measuring information on variables of interest, in an established systematic fashion that enables one to answer stated research questions, test hypotheses, and evaluate outcomes and generate insights from the data.
 
